@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/poshichao/文档/C++/SJJGSY3/main.cpp
+iostream
+-
+cstring
+-
+fstream
+-
+iomanip
+-
+algorithm
+-
+
